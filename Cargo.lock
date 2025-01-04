@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "rust-browser-lesson"
 version = "0.1.0"
+
+[[package]]
+name = "soba_core"
+version = "0.1.0"
